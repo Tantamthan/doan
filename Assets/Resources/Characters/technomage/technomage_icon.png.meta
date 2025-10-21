@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      technomage_icon_0: -2501828413784419178
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

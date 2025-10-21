@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fisherman_mouth_0: 1208776494258957633
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

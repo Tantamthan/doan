@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      renegade_eyes_0: 7646836473260213783
+      renegade_eyes_1: 2961953750941104666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

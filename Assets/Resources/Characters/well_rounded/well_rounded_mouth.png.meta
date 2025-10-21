@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      well_rounded_mouth_0: 190717785513595267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

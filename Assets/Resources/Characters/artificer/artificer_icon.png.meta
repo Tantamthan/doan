@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      artificer_icon_0: -8414071892429885057
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

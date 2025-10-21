@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glutton_eyes_0: -3449272035062857386
+      glutton_eyes_1: -6402965824982194300
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

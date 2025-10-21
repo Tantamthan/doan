@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crazy_icon_0: -288522445087634894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

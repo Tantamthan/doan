@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crazy_mouth_0: 8421302039790471265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

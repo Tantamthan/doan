@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cryptid_eyes_0: 7162200870688614990
+      cryptid_eyes_1: 7071556592087248048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      entrepreneur_mouth_0: 6334740192850719672
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

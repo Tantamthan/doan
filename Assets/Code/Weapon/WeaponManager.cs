@@ -50,13 +50,13 @@ public class WeaponManager : MonoBehaviour
             if (item.name.StartsWith(weaponName))
             {
                 GameManager.Instance.SelectedWeapon = item;
-                SceneManager.LoadScene("SampleScene");
+                SceneManager.LoadScene("Play");
                 return;
             }   
         }
 
             Debug.Log("Không tìm thấy vũ khí");
             // Load scene mới
-            SceneManager.LoadScene("SampleScene");
+            SceneManager.LoadScene("Play");
     }
 }

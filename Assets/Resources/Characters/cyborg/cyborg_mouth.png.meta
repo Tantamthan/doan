@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cyborg_mouth_0: -1421378630423635936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

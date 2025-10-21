@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      soldier_eyes_0: 8453833199458674885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

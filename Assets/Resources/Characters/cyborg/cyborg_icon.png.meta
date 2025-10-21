@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cyborg_icon_0: 5600770697237122243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

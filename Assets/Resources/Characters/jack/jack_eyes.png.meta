@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jack_eyes_0: 5612466208748579565
+      jack_eyes_1: -4147887327567692074
+      jack_eyes_2: -5357569254710201878
+      jack_eyes_3: -7642090542448267308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chunky_mouth_0: -639965698090524935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

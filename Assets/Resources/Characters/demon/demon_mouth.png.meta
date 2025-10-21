@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_mouth_0: -7965421560479948301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

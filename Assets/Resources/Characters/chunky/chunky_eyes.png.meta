@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chunky_eyes_0: 6629776265948209725
+      chunky_eyes_1: 8184926764008850859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

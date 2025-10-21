@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wildling_icon_0: -1558746085307974800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

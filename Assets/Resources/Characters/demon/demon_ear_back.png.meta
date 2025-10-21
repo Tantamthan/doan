@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_ear_back_0: 6306474669905235098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -53,7 +53,11 @@ namespace Goldmetal.UndeadSurvivor
 
         public void Despawn(GameObject obj)
         {
-            obj.SetActive(false); // Trả về pool
+           
+            if (obj != null && obj.activeInHierarchy)
+            {
+                obj.SetActive(false); // Trả về pool
+            }
         }
     }
 }

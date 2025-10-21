@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adrenaline_icon_0: 2989528770667703055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

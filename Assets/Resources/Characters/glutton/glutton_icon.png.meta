@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glutton_icon_0: 6358225335102584065
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

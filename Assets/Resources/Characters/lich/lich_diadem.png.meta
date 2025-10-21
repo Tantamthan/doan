@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lich_diadem_0: 7695728129575056650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

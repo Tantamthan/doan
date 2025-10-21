@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wildling_mouth_0: 8020633886503405493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

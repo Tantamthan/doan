@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lich_mouth_0: 3030668022467432553
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      apprentice_robe_0: 4340800529852807053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

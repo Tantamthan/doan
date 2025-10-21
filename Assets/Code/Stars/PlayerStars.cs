@@ -42,18 +42,29 @@ public class PlayerStats : MonoBehaviour
     }
     public void manet()
     {
-        List<GameObject> coins = GameManager.Coin; for (int i = coins.Count - 1; i >= 0; i--)
+        List<GameObject> coins = GameManager.Coin;
+        for (int i = coins.Count - 1; i >= 0; i--)
         {
-            GameObject coin = coins[i]; float distan = Vector3.Distance(coin.transform.position, transform.position); 
-            //Debug.Log(distan);
-            if (distan < Rangmanet) { coin.transform.position = Vector3.MoveTowards(coin.transform.position, transform.position,10*Time.deltaTime); } 
-            if (distan < 0.1f) {
-                GameManager.removeFormList(GameManager.Coin,coin); 
-                Goldmetal.UndeadSurvivor.PoolManager.Instance.Despawn(coin); 
-            } } }
+            GameObject coin = coins[i];
+            float distan = Vector3.Distance(coin.transform.position, transform.position);
+            Debug.Log(distan);
+            if (distan < Rangmanet)
+            {
+                coin.transform.position = Vector3.MoveTowards(coin.transform.position, transform.position, 10 * Time.deltaTime);
+
+            }
+            if (distan < 0.1f)
+            {
+                GameManager.delCoin(coin);
+                Goldmetal.UndeadSurvivor.PoolManager.Instance.Despawn(coin);
+                currentExp += 5;
+                LevelUp();
+            }
+        }
+    }
     public void TakeDamage(float dmg)
     {
-        if (isDead) return;
+        //if (isDead) return;
         if(!canTakeDame) return;
         float perDame=0;
         //if (currentArmor > 0)
@@ -126,13 +137,22 @@ public class PlayerStats : MonoBehaviour
 
     private void LevelUp()
     {
-        currentExp -= expToNextLevel;
-        currentLevel++;
-        expToNextLevel = Mathf.RoundToInt(expToNextLevel * 1.5f);
-        Debug.Log("LEVEL UP! Đạt cấp " + currentLevel);
-        UpdateLevelText();
-    }
+        if (currentExp >= expToNextLevel)
+        {
+            currentLevel++;
+            expToNextLevel = Mathf.RoundToInt(expToNextLevel * 1.5f);
+            UpdateLevelText();
+            currentExp = 0;
 
+
+        }
+
+
+        Debug.Log("LEVEL UP! Đạt cấp " + currentLevel);
+
+        // --- THÊM DÒNG NÀY: Gọi hàm cập nhật UI mỗi khi lên cấp ---
+
+    }
     void UpdateLevelText()
     {
         if (levelText != null)

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cyborg_skin_0: 4127817481335983717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

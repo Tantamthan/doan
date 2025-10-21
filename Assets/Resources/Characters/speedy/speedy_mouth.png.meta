@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      speedy_mouth_0: -3621532710706882763
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

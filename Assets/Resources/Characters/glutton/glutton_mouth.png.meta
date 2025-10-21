@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      glutton_mouth_0: -4991768963334350019
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

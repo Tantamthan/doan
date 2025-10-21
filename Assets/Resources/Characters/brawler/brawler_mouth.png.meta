@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      brawler_mouth_0: 6142133693375889978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

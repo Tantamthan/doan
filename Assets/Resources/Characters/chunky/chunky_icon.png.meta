@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chunky_icon_0: 2366842969764531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

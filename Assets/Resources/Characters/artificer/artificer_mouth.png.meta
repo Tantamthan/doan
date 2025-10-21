@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      artificer_mouth_0: -8407777208477143214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

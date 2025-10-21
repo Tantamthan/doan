@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fisherman_hat_0: -5703470008601773048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

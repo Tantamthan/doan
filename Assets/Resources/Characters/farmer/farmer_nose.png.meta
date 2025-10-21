@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      farmer_nose_0: 6791293727109204644
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

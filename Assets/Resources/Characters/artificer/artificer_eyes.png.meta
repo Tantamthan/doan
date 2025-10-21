@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      artificer_eyes_0: 6374783542378390896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

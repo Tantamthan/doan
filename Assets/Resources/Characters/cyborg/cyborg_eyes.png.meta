@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cyborg_eyes_0: -5283635405536535044
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

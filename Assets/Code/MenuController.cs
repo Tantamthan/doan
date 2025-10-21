@@ -7,9 +7,9 @@ public class MenuController : MonoBehaviour
     public GameObject settingsPanel;
 
     // =================== Scene & Application ===================
-    public void ChangeScene(string sceneName)
+    public void ChangeScene()
     {
-        SceneManager.LoadScene(sceneName);
+        SceneManager.LoadScene("Charater");
     }
 
     public void Quit()

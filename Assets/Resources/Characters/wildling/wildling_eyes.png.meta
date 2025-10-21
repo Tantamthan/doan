@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wildling_eyes_0: 3170332876476278196
+      wildling_eyes_1: 5440494140189104661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

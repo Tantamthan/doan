@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arms_dealer_mouth_0: 6746322757958363014
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

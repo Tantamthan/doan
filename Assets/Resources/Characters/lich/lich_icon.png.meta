@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lich_icon_0: -8483038735544418419
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

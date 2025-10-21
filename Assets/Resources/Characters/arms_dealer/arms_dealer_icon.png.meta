@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      arms_dealer_icon_0: -3711057942607977549
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

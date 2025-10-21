@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      brawler_eyes_0: 2044611050356202082
+      brawler_eyes_1: -764242950370819678
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

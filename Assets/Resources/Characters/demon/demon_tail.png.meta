@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_tail_0: -1868624822670575240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
